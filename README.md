@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<img src="https://github-stats-extended.vercel.app/api?username=alimousavi000777-collab&show_icons=true&theme=dracula" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=alimousavi000777-collab" />
+
 <!--
 **alimousavi000777-collab/alimousavi000777-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
