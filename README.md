@@ -19,5 +19,5 @@
    </br>
    </br>
   <h2>my stats : </h2>
-  <img src="https://github-stats-extended.vercel.app/api?username=alimousavi80&show_icons=true&theme=dracula" />   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=alimousavi80-collab" />
+  <img src="https://github-stats-extended.vercel.app/api?username=alimousavi80&show_icons=true" />   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=alimousavi80" />
 </div>
